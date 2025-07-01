@@ -1,0 +1,14 @@
+//Parameterized:
+    Parameters are passed in the functions
+
+//Non-Parameterized
+    Parameters are not passed
+
+// Static
+    function can be called directly using class name without needing to create an object of the class first
+
+//Non-Static
+    also known as instance method. They are methods that belong to a specific instance of the class.
+
+//User Defined
+    block of code defined by the coder to perform a specific task.
