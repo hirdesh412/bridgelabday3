@@ -1,0 +1,17 @@
+// Creating an array of 5 integers
+//int[] numbers = new int[5]; 
+
+// Setting the first element of the array
+//numbers[0] = 10; 
+// Accessing the first element
+//int firstElement = numbers[0]; 
+// Getting the length of the array
+//int length = numbers.length; 
+//The general form of array declaration is 
+//Method 1:
+//type var-name[]; 
+//Method 2:
+//type[] var-name;
+// Declaring array literal  
+//int[] intArray = new int[]{ 1,2,3,4,5,6,7,8,9,10 }; 
+
